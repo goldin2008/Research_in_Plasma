@@ -16,3 +16,5 @@ http://www-personal.umich.edu/~mejn/computational-physics/
 http://iopscience.iop.org/book/978-1-6270-5620-5.pdf
 
 https://www.linkedin.com/pulse/scientific-computing-data-science-physics-mark-yashar
+
+https://www.enthought.com/company/team/devs/
