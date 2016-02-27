@@ -31,16 +31,8 @@ https://www.enthought.com/company/team/devs/
 ## Electric and Magnetic Fields
 ![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370871/ca64c584-dcdb-11e5-8d39-268fd57ec759.png)
 
-> Unicode symbols with Windows CMD fallbacks
-![alt text](screenshots/filename.png "Description goes here")
-
-[*and more...*](index.js)
-
-Windows CMD only supports a [limited character set](http://en.wikipedia.org/wiki/Code_page_437).
-
-
-## Install
+>How to run program
 
 ```
-$ npm install --save figures
+$ python run.py
 ```
