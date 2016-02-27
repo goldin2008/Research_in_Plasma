@@ -19,7 +19,17 @@ https://www.linkedin.com/pulse/scientific-computing-data-science-physics-mark-ya
 
 https://www.enthought.com/company/team/devs/
 
+## Trajectory
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370865/b076c8a2-dcdb-11e5-8207-b0da8becc761.png)
 
+## Momentum
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370869/c79516c4-dcdb-11e5-8a3b-2f5338929ed5.png)
+
+## Radiation Spectrum
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370870/c798c968-dcdb-11e5-95da-b730bfb845f3.png)
+
+## Electric and Magnetic Fields
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370871/ca64c584-dcdb-11e5-8d39-268fd57ec759.png)
 
 > Unicode symbols with Windows CMD fallbacks
 ![alt text](screenshots/filename.png "Description goes here")
