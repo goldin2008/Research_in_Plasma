@@ -32,6 +32,7 @@ https://www.enthought.com/company/team/devs/
 ![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370871/ca64c584-dcdb-11e5-8d39-268fd57ec759.png)
 
 >GitHub Tricks: Upload Images & Live Demos
+
 http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
 
 >How to run program
