@@ -19,6 +19,14 @@ https://www.linkedin.com/pulse/scientific-computing-data-science-physics-mark-ya
 
 https://www.enthought.com/company/team/devs/
 
+https://www.particleincell.com/2010/es-pic-method/
+
+https://www.particleincell.com/2011/particle-in-cell-example/
+
+http://www.physics.utoronto.ca/~phy326/python/
+
+
+
 ## Trajectory
 ![alt tag](https://cloud.githubusercontent.com/assets/1994819/13370865/b076c8a2-dcdb-11e5-8207-b0da8becc761.png)
 
