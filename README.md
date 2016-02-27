@@ -18,3 +18,19 @@ http://iopscience.iop.org/book/978-1-6270-5620-5.pdf
 https://www.linkedin.com/pulse/scientific-computing-data-science-physics-mark-yashar
 
 https://www.enthought.com/company/team/devs/
+
+
+
+> Unicode symbols with Windows CMD fallbacks
+![alt text](screenshots/filename.png "Description goes here")
+
+[*and more...*](index.js)
+
+Windows CMD only supports a [limited character set](http://en.wikipedia.org/wiki/Code_page_437).
+
+
+## Install
+
+```
+$ npm install --save figures
+```
