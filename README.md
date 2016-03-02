@@ -25,6 +25,9 @@ https://www.particleincell.com/2011/particle-in-cell-example/
 
 http://www.physics.utoronto.ca/~phy326/python/
 
+http://my.ece.msstate.edu/faculty/donohoe/ece3313vector_analysis.pdf
+
+
 ## Mathematics Genealogy Project
 
 > http://www.genealogy.ams.org/index.php
