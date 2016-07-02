@@ -2,6 +2,8 @@
 
 https://www.praetorian.com/blog/multi-core-and-distributed-programming-in-python
 
+https://rcc.fsu.edu/docs/high-performance-computing-python
+
 https://computing.llnl.gov/tutorials/parallel_comp/#DesignCosts
 
 https://docs.python.org/3/library/multiprocessing.html
@@ -12,6 +14,7 @@ https://docs.python.org/3/library/threading.html
 
 https://wiki.python.org/moin/SimplePrograms
 
+https://hcc-docs.unl.edu/display/HCCDOC/HTCondor+on+the+OSG
 
 
 # Research_in_Plasma
