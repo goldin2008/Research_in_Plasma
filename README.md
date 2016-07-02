@@ -2,6 +2,18 @@
 
 https://www.praetorian.com/blog/multi-core-and-distributed-programming-in-python
 
+https://computing.llnl.gov/tutorials/parallel_comp/#DesignCosts
+
+https://docs.python.org/3/library/multiprocessing.html
+
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
+
+https://docs.python.org/3/library/threading.html
+
+https://wiki.python.org/moin/SimplePrograms
+
+
+
 # Research_in_Plasma
 Physics Research in Plasma
 
