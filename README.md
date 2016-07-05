@@ -1,4 +1,4 @@
-# Slurm shell script
+# SLURM shell script
 
 http://www.ceci-hpc.be/slurm_tutorial.html
 
