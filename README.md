@@ -2,6 +2,25 @@
 
 http://www.ceci-hpc.be/slurm_tutorial.html
 
+https://rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/
+
+https://marylou.byu.edu/documentation/slurm/commands
+
+https://www.princeton.edu/researchcomputing/computational-hardware/machine-2/tutorials-1/
+
+http://tanviralamspace.blogspot.com/2015/01/slurm-tutorial-basic-commands.html
+
+https://rcc.uchicago.edu/docs/tutorials/kicp-tutorials/running-jobs.html
+
+https://rc.fas.harvard.edu/resources/running-jobs/
+
+https://www.rc.colorado.edu/support/examples-and-tutorials/slurm-job-submission.html
+
+https://computing.llnl.gov/tutorials/slurm/slurm.pdf
+
+
+
+
 # Multi-Core and Distributed Programming in Python
 
 https://www.praetorian.com/blog/multi-core-and-distributed-programming-in-python
