@@ -18,6 +18,14 @@ https://www.rc.colorado.edu/support/examples-and-tutorials/slurm-job-submission.
 
 https://computing.llnl.gov/tutorials/slurm/slurm.pdf
 
+https://rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/
+
+https://www.hpc2n.umu.se/batchsystem/examples_scripts
+
+http://www.ceci-hpc.be/slurm_tutorial.html
+
+http://www.ceci-hpc.be/slurm_faq.html#Q05
+
 
 
 
