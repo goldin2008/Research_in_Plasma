@@ -77,6 +77,12 @@ http://www.physics.utoronto.ca/~phy326/python/
 
 http://my.ece.msstate.edu/faculty/donohoe/ece3313vector_analysis.pdf
 
+## Energy Distribution
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/23819699/61677e5a-05cf-11e7-9f64-9154a0fd5f8d.png)
+
+## Location Distribution
+![alt tag](https://cloud.githubusercontent.com/assets/1994819/23819701/64f775e8-05cf-11e7-815e-c4c80f63b26e.png)
+
 
 ## Mathematics Genealogy Project
 
